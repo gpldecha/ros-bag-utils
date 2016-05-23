@@ -133,5 +133,5 @@ def load_bag_files(folder_name,f_extract_data_bag):
     
 if __name__ == '__main__':
     print "Loading bag files"
-    load_bag_files('/home/guillaume/roscode/bag_record/search_demo1/',f_extract_bag_bel_pos)    
+    load_bag_files('/home/guillaume/roscode/bag_record/socket_two/',f_extract_bag_bel_pos)    
 
